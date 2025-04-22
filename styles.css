@@ -4,7 +4,7 @@ font-family: Arial, sans-serif;
 
 color: #333;
   
-background-image: slice.jph;
+background-color: lightblilue;
 
 margin: 0;
   
@@ -22,7 +22,7 @@ background-color: lightblue;
 color: white;
 
 padding: 65px;
-
+img-class=background img;slice.jpg;
 text-align: center;
 }
 
