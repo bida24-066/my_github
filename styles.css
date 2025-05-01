@@ -1,11 +1,16 @@
+<tittle>Background Image Example</tittle>
+<style>
+
 body {
 
 font-family: Arial, sans-serif;
 
 color: #333;
   
-background-color: lightblilue;
-
+background-image: 'outrage.jpg';
+background-size: cover;
+  background-repeat: no repeat;
+  background-position`: whole page;
 margin: 0;
   
 padding:0;
