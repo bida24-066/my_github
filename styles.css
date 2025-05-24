@@ -22,7 +22,7 @@ header {
 
   font-family: Brush Script MT, sans-serif;
   
-background-color: white;
+background-color: black;
 
 color: white;
 
@@ -41,7 +41,7 @@ margin: 0;
 
 nav a {
 
-color: black;
+color: grey;
 
 text-decoration: none;
 
