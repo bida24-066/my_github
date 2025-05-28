@@ -76,37 +76,10 @@ display: block;
 margin: 20px 0;
 
 }
-<div class="gallery">
-  <a target="_blank" href="img_outrage.jpg">
-    <img src="img_outrage.jpg" alt="Cinque Terre" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img_greenrage.jpg">
-    <img src="img_greenrage.jpg" alt="greenrage" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img_the one.jpg">
-    <img src="img_the one.jpg" alt="the one" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img_mountains.jpg">
-    <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
 
 footer {
 
-background-color: #333;
+background-color:black;
 
 color: black;
 
